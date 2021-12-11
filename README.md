@@ -1,4 +1,5 @@
-![Open Source Society logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.open.edu%2Fopenlearn%2Ffree-courses%2Ffull-catalogue&psig=AOvVaw1yeunUcZMAHVed1biVoaXC&ust=1639322407826000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCNCYyoGG3PQCFQAAAAAdAAAAABAO)
+![Open Source Society logo](http://i.imgur.com/kYYCXtC.png)
+
 
 <h3 align="center">Open Education || Free Contribute</h3>
 <p align="center">
